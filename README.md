@@ -1,0 +1,2 @@
+# ClipboardWhitespaceCleaner
+Remove unnecessary whitespaces
